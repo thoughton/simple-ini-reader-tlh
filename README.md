@@ -1,3 +1,6 @@
+Fork of: [seb-jones/simple-ini-reader](https://github.com/seb-jones/simple-ini-reader)
+======================================================================================
+
 # Simple INI Reader
 A fast, simple, public domain INI Reader written in C. This repo includes a
 single-file library, and a Unix-style command-line utility that acts as a 
